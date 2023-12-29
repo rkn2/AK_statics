@@ -21,7 +21,7 @@ authors:
     affiliation: "1" # (Multiple affiliations must be quoted)
   - name: Heather Randell
     orcid: 0000-0003-0872-7098
-    affiliation: "1" # (Multiple affiliations must be quoted)
+    affiliation: "4" # (Multiple affiliations must be quoted)
 
 affiliations:
  - name: Architectural Engineering Department, Penn State University
@@ -30,6 +30,8 @@ affiliations:
    index: 2
  - name: University of Alaska Fairbanks
    index: 3
+ - name: University of Minnesota
+   index: 4
 date: 29 December 2023
 bibliography: paper.bib
 
