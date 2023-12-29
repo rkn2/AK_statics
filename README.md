@@ -47,7 +47,9 @@ RN and TN created the physics materials. HR, MM, GQ, and DH provided social scie
 DH provided context about rural Alaska.
 
 ## Acknowledgements
-The authors would like to acknowledge xxx. 
+
+This material is based upon work supported by the National Science Foundation under Grant BCS-2121909 and IIS-2123343. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+The authors would like to acknowledge the high school students who were eager to try out the materials and Dr. Thomas Boothby who provided invaluable empirical knowledge about bridges and bridge desigm. 
 
 ## Contributing and raising issues
 
