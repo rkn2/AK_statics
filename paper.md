@@ -65,6 +65,18 @@ By the end of the module, students should be able to
 ## Content
 The content of this course focuses on introducing first-year high school students to statics in physics, emphasizing real-world applications in the context of Alaska's remote communities. It covers fundamental concepts like forces in equilibrium, structural equilibrium, and the principles of torque, while intertwining these lessons with Python programming for data analysis. The course also addresses the social, ecological, and engineering challenges specific to Alaska, aiming to foster a deeper understanding of interdisciplinary approaches in problem-solving and the importance of sustainable, community-focused solutions.
 
+Table: Summary of course material.
+## Course Content:
+
+| Lesson | Content Summary                 | Google CoLab|
+|------|---------------------------------|------|
+| 1    | This lesson introduces the fundamental concepts of statics, focusing on the principles of forces in equilibrium. It provides an understanding of how to solve problems involving force vectors, both through graphical and analytical methods. The lesson emphasizes the importance of understanding the conditions for equilibrium in various physical scenarios, and it guides students in applying these principles to practical, real-world problems. | [![Unit_01](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dp6GRQZdSIWkXo8C7EeEGafog3wipmi3?usp=sharing) |
+| 2    | The lesson covers concepts like support forces and net force, and teaches students how to apply the principles of vertical and horizontal equilibrium. It emphasizes visualizing parametric relationships and includes practical examples like evaluating the stability of a person standing on ice. | [![Unit_02](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gzo0E511Jfu8cd6453FQB2hnOqYE-DIK?usp=sharing) |
+| 3    | This lesson introduces the concepts of torque and rotational equilibrium. This lesson teaches students how to calculate torque and understand its role in physical systems, particularly focusing on its application in various equilibrium scenarios| [![Unit_01](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oWPx56qeF3MBXvJNrtOPS1875MSyngGH?usp=sharing) |
+| 4    | This lesson reinforces understanding of forces and equilibrium in physics and engineering, with a focus on practical problem-solving.| [![Unit_01](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cR4s--aS97XXNYX0BPoOEOYg51eOKrgr?usp=sharing) |
+| 5    | This lesson focuses on understanding conditions for static equilibrium in bridges, including balancing forces and torques. Students learn about internal forces like shear forces and moments that contribute to equilibrium. | [![Unit_01](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k7s4WtFUQAyGNWpxca752dDVuj8fIkDa?usp=sharing) |
+
+
 ## Experience of Use
 
 # Conclusion
