@@ -5,7 +5,7 @@
 
 ## Course Content:
 
-| Unit | Content Summary                 | Google CoLab|
+| Lesson | Content Summary                 | Google CoLab|
 |------|---------------------------------|------|
 | 1    | This lesson introduces the fundamental concepts of statics, focusing on the principles of forces in equilibrium. It provides an understanding of how to solve problems involving force vectors, both through graphical and analytical methods. The lesson emphasizes the importance of understanding the conditions for equilibrium in various physical scenarios, and it guides students in applying these principles to practical, real-world problems. | [![Unit_01](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dp6GRQZdSIWkXo8C7EeEGafog3wipmi3?usp=sharing) |
 | 2    | The lesson covers concepts like support forces and net force, and teaches students how to apply the principles of vertical and horizontal equilibrium. It emphasizes visualizing parametric relationships and includes practical examples like evaluating the stability of a person standing on ice. | [![Unit_02](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gzo0E511Jfu8cd6453FQB2hnOqYE-DIK?usp=sharing) |
