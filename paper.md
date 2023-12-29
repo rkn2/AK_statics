@@ -22,35 +22,10 @@ bibliography: paper.bib
 
 # Summary
 
-The forces on stars, galaxies, and dark matter under external gravitational
-fields lead to the dynamical evolution of structures in the universe. The orbits
-of these bodies are therefore key to understanding the formation, history, and
-future state of galaxies. The field of "galactic dynamics," which aims to model
-the gravitating components of galaxies to study their structure and evolution,
-is now well-established, commonly taught, and frequently used in astronomy.
-Aside from toy problems and demonstrations, the majority of problems require
-efficient numerical tools, many of which require the same base code (e.g., for
-performing numerical orbit integration).
+The course begins with an introduction to statics, delving into forces in equilibrium and vector-based problem-solving. The subsequent lessons explore the principles of equilibrium in structures, emphasizing the balance of forces both vertically and horizontally. The course then transitions to torque and rotational equilibrium, teaching both theoretical and practical aspects. Force analysis on single-plane structures is also covered, culminating in a detailed study of static equilibrium in bridge structures, where concepts like shear forces and environmental impacts are discussed. Additionally, students are encouraged to critically evaluate engineering decisions in light of social, ecological, and other context. 
 
-``Gala`` is an Astropy-affiliated Python package for galactic dynamics. Python
-enables wrapping low-level languages (e.g., C) for speed without losing
-flexibility or ease-of-use in the user-interface. The API for ``Gala`` was
-designed to provide a class-based and user-friendly interface to fast (C or
-Cython-optimized) implementations of common operations such as gravitational
-potential and force evaluation, orbit integration, dynamical transformations,
-and chaos indicators for nonlinear dynamics. ``Gala`` also relies heavily on and
-interfaces well with the implementations of physical units and astronomical
-coordinate systems in the ``Astropy`` package [@astropy] (``astropy.units`` and
-``astropy.coordinates``).
+This course module, designed for first-year high school students with no prior knowledge of static equilibrium and programmatic data analysis, serves as an introductory bridge to programming through high school physics. It is structured as a multi-week course that introduces Python programming and its application in physics. The module comprises five units tailored for an in-person learning environment, featuring live coding sessions and explanations, followed by independent or pair coding activities. Hosted on CoLab, it supports both self-guided and classroom-based learning, extending educational opportunities beyond the traditional classroom setting.
 
-``Gala`` was designed to be used by both astronomical researchers and by
-students in courses on gravitational dynamics or astronomy. It has already been
-used in a number of scientific publications [@Pearson:2017] and has also been
-used in graduate courses on Galactic dynamics to, e.g., provide interactive
-visualizations of textbook material [@Binney:2008]. The combination of speed,
-design, and support for Astropy functionality in ``Gala`` will enable exciting
-scientific explorations of forthcoming data releases from the *Gaia* mission
-[@gaia] by students and experts alike.
 
 # Statement of Need
 
