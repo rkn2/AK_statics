@@ -44,7 +44,10 @@ This course module, designed for first-year high school students with no prior k
 # Statement of Need
 This educational content is vital for bridging the gap between high school physics and real-world applications, particularly in the unique and challenging context of Alaska's remote communities. It provides students with a foundational understanding of statics and computational skills using Python, crucial for solving contemporary issues like climate change's impact on infrastructure. 
 
-In rural Alaska, the challenges of building and maintaining bridges go beyond engineering prowess. The complexity arises from the interplay of social and cultural factors tightly woven into these communities' fabric. A purely engineering-centric approach falls short of addressing the nuanced needs and aspirations of Alaska Native (AN) communities, whose traditional subsistence livelihoods and cultural practices can be at odds with bridge access. 
+The benefits of contextualized physics teaching are well known. "History of Science in Physics Teaching Possibilities for Contextualized Teaching?" by Jardim et al discusses the use of a historical approach in science education, particularly in physics, to provide a more contextualized understanding of the development of scientific knowledge. The primary aim is to explore how lessons incorporating a Cultural History of Science approach can enable activities that encourage students to consider their socio-cultural context, with a specific reference to Brazilian scientific production. It also investigates how students can develop a deeper understanding of scientific practices through classroom discussions inspired by this approach, focusing on both historical contexts and students' own social environments. The approach allows students to recognize that science is developed by various social actors, in different settings beyond the laboratory, and involves diverse actions. The findings suggest that this method of teaching science is effective in historically contextualizing science development while also enabling students to reflect on scientific production within their social context.
+The impacts of contextualization are not limited to upper level devisions of physics and have been examined additionally at the precollegiate level. "Contextualized Modules in Physics for Junior High School Students" by Marzan indicated that contextualized modules in physics enabled students to outperformed the traditional lecture group in post-test evaluations. Similar results were seen by Cid in "Contextualized magnetism in secondary school: learning from the LHC (CERN)." That article discussed the introduction of simple physical calculations related to magnetic phenomena in old accelerators and the Large Hadron Collider. They discussed how these calculations can be used in classrooms to spark students' curiosity, aid their understanding of physical concepts, and illustrate the connection between theoretical physics ("cold equations") and the dynamic world of scientific research.
+
+In rural Alaska, the challenges of building and maintaining bridges go beyond engineering. The complexity arises from the interplay of social and cultural factors tightly woven into these communities' fabric. A purely engineering-centric approach falls short of addressing the nuanced needs and aspirations of Alaska Native communities, whose traditional subsistence livelihoods and cultural practices can be at odds with bridge access. 
 
 ![Description of Image](https://imgur.com/ueyEHlM)
 
@@ -55,15 +58,16 @@ Building bridges in remote communities can offer valuable opportunities for deve
 ## Target audience
 The target audience is primarily first-year high school students who are new to the concepts of static equilibrium and programmatic data analysis. This course is designed to introduce these students to the fundamentals of physics through a practical and interactive approach, incorporating Python programming as a tool for learning and problem-solving. The content is tailored to engage young learners who have an interest in physics and computational analysis, and who are keen on understanding real-world applications, particularly in the unique environmental and social context of Alaska's remote communities.
 
-By the end of the module, students should be able to
-* Understand and apply basic principles of statics and forces in equilibrium.
-* Analyze structural equilibrium in various scenarios, particularly in bridge construction.
-* Utilize Python programming for data analysis and problem-solving in physics.
-* Integrate social, ecological, and engineering perspectives to address challenges in Alaska's remote communities.
-* Develop critical thinking and interdisciplinary problem-solving skills relevant to real-world issues.
+By the end of the module, students should be able to: 
+
+- Understand and apply basic principles of statics and forces in equilibrium.
+- Analyze structural equilibrium in various scenarios, particularly in bridge construction.
+- Utilize Python programming for data analysis and problem-solving in physics.
+- Integrate social, ecological, and engineering perspectives to address challenges in Alaska's remote communities.
+- Develop critical thinking and interdisciplinary problem-solving skills relevant to real-world issues.
 
 ## Content
-The content of this course focuses on introducing first-year high school students to statics in physics, emphasizing real-world applications in the context of Alaska's remote communities. It covers fundamental concepts like forces in equilibrium, structural equilibrium, and the principles of torque, while intertwining these lessons with Python programming for data analysis. The course also addresses the social, ecological, and engineering challenges specific to Alaska, aiming to foster a deeper understanding of interdisciplinary approaches in problem-solving and the importance of sustainable, community-focused solutions.
+The content of this course focuses on introducing first-year high school students to statics in physics, emphasizing real-world applications in the context of Alaska's remote communities. It covers fundamental concepts like forces in equilibrium, structural equilibrium, and the principles of torque, while intertwining these lessons with Python programming for data analysis. The course also addresses the social, ecological, and engineering challenges specific to Alaska, aiming to foster a deeper understanding of interdisciplinary approaches in problem-solving and the importance of sustainable, community-focused solutions. A summary of each unit can be found in Table 1 below:
 
 Table: Summary of course material.
 ## Course Content:
