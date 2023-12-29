@@ -1,33 +1,54 @@
 ---
-title: 'Course Materials for xxx'
+title: 'Course Materials for Static Equilibrium in Remote Alaska'
 tags:
   - high school physics
   - equilibrium mechanics
   - physics
 authors:
-  - name: Adrian M. Price-Whelan
+  - name: Rebecca Napolitano
     orcid: 0000-0003-0872-7098
-    affiliation: "1, 2" # (Multiple affiliations must be quoted)
-  - name: Author Without ORCID
-    affiliation: 2
+    affiliation: "1" # (Multiple affiliations must be quoted)
+  - name: Theresa Napolitano
+    affiliation: "2" # (Multiple affiliations must be quoted)
+  - name: Davin Holen
+    orcid: 0000-0003-0872-7098
+    affiliation: "3" # (Multiple affiliations must be quoted)
+  - name: Guanqing Chi
+    orcid: 0000-0003-0872-7098
+    affiliation: "1" # (Multiple affiliations must be quoted)
+  - name: Megan Muckioki 
+    orcid: 0000-0003-0872-7098
+    affiliation: "1" # (Multiple affiliations must be quoted)
+  - name: Heather Randell
+    orcid: 0000-0003-0872-7098
+    affiliation: "1" # (Multiple affiliations must be quoted)
+
 affiliations:
- - name: Lyman Spitzer, Jr. Fellow, Princeton University
+ - name: Architectural Engineering Department, Penn State University
    index: 1
- - name: Institution 2
+ - name: Academy of Our Lady of Mercy Lauralton Hall
    index: 2
-date: 13 August 2017
+ - name: University of Alaska Fairbanks
+   index: 3
+date: 29 December 2023
 bibliography: paper.bib
 
 ---
 
 # Summary
 
-This course intertwines physics education with the unique challenges faced by Alaska's remote communities. It begins with fundamental statics concepts, emphasizing forces in equilibrium and vector problem-solving. Progressing through equilibrium in structures and torque, it culminates in practical applications like bridge construction in Alaska. The course, aimed at first-year high school students, introduces Python programming for physics applications. It's structured for in-person and self-guided learning on CoLab. The Alaska context adds depth, exploring social, ecological, and engineering challenges in these communities, emphasizing the necessity of interdisciplinary collaboration for sustainable solutions.
+This course module intertwines physics education with the unique challenges faced by Alaska's remote communities. It begins with fundamental statics concepts, emphasizing forces in equilibrium and vector problem-solving. Progressing through equilibrium in structures and torque, it culminates in practical applications like bridge construction in Alaska. The course, aimed at first-year high school students, introduces Python programming for physics applications. It's structured for in-person and self-guided learning on CoLab. The Alaska context adds depth, exploring social, ecological, and engineering challenges in these communities, emphasizing the necessity of interdisciplinary collaboration for sustainable solutions.
 
 This course module, designed for first-year high school students with no prior knowledge of static equilibrium and programmatic data analysis, serves as an introductory bridge to programming through high school physics. It is structured as a multi-week course that introduces Python programming and its application in physics. The module comprises five units tailored for an in-person learning environment, featuring live coding sessions and explanations, followed by independent or pair coding activities. Hosted on CoLab, it supports both self-guided and classroom-based learning, extending educational opportunities beyond the traditional classroom setting.
 
 # Statement of Need
-This educational content is vital for bridging the gap between high school physics and real-world applications, particularly in the unique and challenging context of Alaska's remote communities. It provides students with a foundational understanding of statics and computational skills using Python, crucial for solving contemporary issues like climate change's impact on infrastructure. The course also highlights the social, cultural, and ecological challenges of Alaska, fostering critical thinking and problem-solving skills. This comprehensive approach ensures students are not only academically prepared but also socially and environmentally aware, addressing the urgent need for interdisciplinary education in today's rapidly changing world.
+This educational content is vital for bridging the gap between high school physics and real-world applications, particularly in the unique and challenging context of Alaska's remote communities. It provides students with a foundational understanding of statics and computational skills using Python, crucial for solving contemporary issues like climate change's impact on infrastructure. 
+
+In rural Alaska, the challenges of building and maintaining bridges go beyond engineering prowess. The complexity arises from the interplay of social and cultural factors tightly woven into these communities' fabric. A purely engineering-centric approach falls short of addressing the nuanced needs and aspirations of Alaska Native (AN) communities, whose traditional subsistence livelihoods and cultural practices can be at odds with bridge access. 
+
+<a href="https://imgur.com/ueyEHlM"><img src="https://i.imgur.com/ueyEHlM.png" title="source: imgur.com" /></a>
+
+Building bridges in remote communities can offer valuable opportunities for development and improved connectivity. However, it is essential to consider the potential drawbacks and unintended consequences on local culture and subsistence farming lifestyles. Engaging in inclusive planning, consultation with local communities, and incorporating social impact assessments can help mitigate negative effects and foster sustainable development that respects and preserves the unique cultural heritage and traditional practices of these communities. The course highlights the social, cultural, and ecological challenges of Alaska, fostering critical thinking and problem-solving skills. This comprehensive approach ensures students are not only academically prepared but also socially and environmentally aware, addressing the urgent need for interdisciplinary education in today's rapidly changing world.
 
 # Overview, Content, and Structure
 
