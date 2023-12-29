@@ -46,7 +46,7 @@ This educational content is vital for bridging the gap between high school physi
 
 In rural Alaska, the challenges of building and maintaining bridges go beyond engineering prowess. The complexity arises from the interplay of social and cultural factors tightly woven into these communities' fabric. A purely engineering-centric approach falls short of addressing the nuanced needs and aspirations of Alaska Native (AN) communities, whose traditional subsistence livelihoods and cultural practices can be at odds with bridge access. 
 
-<a href="https://imgur.com/ueyEHlM"><img src="https://i.imgur.com/ueyEHlM.png" title="source: imgur.com" /></a>
+![Description of Image](https://imgur.com/ueyEHlM)
 
 Building bridges in remote communities can offer valuable opportunities for development and improved connectivity. However, it is essential to consider the potential drawbacks and unintended consequences on local culture and subsistence farming lifestyles. Engaging in inclusive planning, consultation with local communities, and incorporating social impact assessments can help mitigate negative effects and foster sustainable development that respects and preserves the unique cultural heritage and traditional practices of these communities. The course highlights the social, cultural, and ecological challenges of Alaska, fostering critical thinking and problem-solving skills. This comprehensive approach ensures students are not only academically prepared but also socially and environmentally aware, addressing the urgent need for interdisciplinary education in today's rapidly changing world.
 
