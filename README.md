@@ -1,4 +1,4 @@
-# Static equilibrium in Remote Alaska
+# Static Equilibrium in Remote Alaska
 
 
 "Static equilibrium in Remote Alaska" is a comprehensive educational module focused on teaching static equilibrium and physics through a combination of theory, practical examples, and computational exercises. This module integrates physics concepts with Python programming, enabling students to solve real-world problems such as calculating the load-bearing capacity of ice and designing structures like bridges in specific environmental contexts. The presented material here serves as a public version of the broader impacts from this grant: xxx. 
