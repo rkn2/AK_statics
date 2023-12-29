@@ -42,7 +42,7 @@ Authors are, in alphabetical order:
 * Theresa Napolitano (TN)
 * Guangqing Chi (GQ)
 
-TN has been teaching high school physics at the Academy of Our Lady of Mercy Lauralton Hall since xxx. 
+TN has been teaching high school physics at the Academy of Our Lady of Mercy Lauralton Hall since 1993. 
 RN and TN created the physics materials. HR, MM, GQ, and DH provided social science context.
 DH provided context about rural Alaska.
 
