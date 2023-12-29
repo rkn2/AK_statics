@@ -95,8 +95,10 @@ Table: Summary of course material.
 
 
 ## Experience of Use
+TO BE ADDED AFTER TEACHING EXPERIENCE
 
 # Conclusion
+TO BE ADDED AFTER TEACHING EXPERIENCE
 
 # Author's Contributions
 TN has been teaching high school physics at the Academy of Our Lady of Mercy Lauralton Hall since 1993. RN and TN created the physics materials. HR, MM, GQ, and DH provided social science context. DH provided context about rural Alaska.
@@ -104,4 +106,4 @@ TN has been teaching high school physics at the Academy of Our Lady of Mercy Lau
 # Acknowlegements
 This material is based upon work supported by the National Science Foundation under Grant BCS-2121909 and IIS-2123343. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
 The authors would like to acknowledge the high school students who were eager to try out the materials and Dr. Thomas Boothby who provided invaluable empirical knowledge about bridges and bridge design. 
-# References
+
