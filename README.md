@@ -16,6 +16,7 @@
 ## Additional resources for teachers
 The document "Code_Outlines.ipynb" is a guide for teachers on translating physics problems into code outlines, aimed at high school students. It emphasizes the importance of creating "code outlines" or "code scaffolds" to guide students through computational problem-solving in physics. The document details the components of a code outline, including problem understanding, variable assignments, calculations, and print statements. It walks through examples like calculating the maximum height of a projectile and the horizontal range of a launched projectile, demonstrating how to define problems, set variables, outline calculations, and display results. This approach helps students organize their thoughts and understand the logic of programming in the context of physics.
 
+The document "interacting_colab.ipynb" is a guide for teachers and students on how to interact with colab notebooks. This material was produced by Google and has been reproduced for simplicity. These resources were only curated and were not written by the authors of this work. 
 
 ## Dependencies and Installation
 This project uses the Python programming language, and requires Python >= 3.9.
@@ -59,3 +60,9 @@ Make sure to include the following into your issue:
 
 ### For pull requests
 To create a pull request, contributors are encouraged to follow the [GitHub quickstart guide on creating a fork and submitting a pull request.](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
+
+### Telling us about how you are using the resource
+If you just want to tell us how you have been using the resource just send us an email or raise an issue pointing to your work. nap@psu.edu
+
+## License
+[MIT License](https://opensource.org/license/mit/) THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
