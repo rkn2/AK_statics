@@ -13,15 +13,15 @@ authors:
   - name: Davin Holen
     orcid: 0000-0003-0872-7098
     affiliation: "3" # (Multiple affiliations must be quoted)
-  - name: Guanqing Chi
-    orcid: 0000-0003-0872-7098
-    affiliation: "1" # (Multiple affiliations must be quoted)
-  - name: Megan Muckioki 
+  - name: Megan Mucioki 
     orcid: 0000-0003-0872-7098
     affiliation: "1" # (Multiple affiliations must be quoted)
   - name: Heather Randell
     orcid: 0000-0003-0872-7098
     affiliation: "4" # (Multiple affiliations must be quoted)
+  - name: Guanqing Chi
+    orcid: 0000-0003-0872-7098
+    affiliation: "1" # (Multiple affiliations must be quoted)
 
 affiliations:
  - name: Architectural Engineering Department, Penn State University
@@ -45,12 +45,12 @@ This course module, designed for first-year high school students with no prior k
 
 # Statement of Need
 ## Contextualized STEM Content
-The benefits of contextualized science, technology, engineering, and mathematics (STEM) teaching are well known.  "Contextualized Modules in Physics for Junior High School Students" by Marzan indicated that contextualized modules in physics enabled students to outperformed the traditional lecture group in post-test evaluations [@marzan2018contextualized]. Similar results were seen by Cid in "Contextualized magnetism in secondary school: learning from the LHC (CERN)" [@cid2005contextualized]. That article discussed the introduction of simple physical calculations related to magnetic phenomena in old accelerators and the Large Hadron Collider. They discussed how these calculations can be used in classrooms to spark students' curiosity, aid their understanding of physical concepts, and illustrate the connection between theoretical physics ("cold equations") and the dynamic world of scientific research.
+The benefits of contextualized science, technology, engineering, and mathematics (STEM) teaching are well known.  "Contextualized Modules in Physics for Junior High School Students" by Marzan indicated that contextualized modules in physics enabled students to outperform the traditional lecture group in post-test evaluations [@marzan2018contextualized]. Similar results were seen by Cid in "Contextualized magnetism in secondary school: learning from the LHC (CERN)" [@cid2005contextualized]. That article discussed the introduction of simple physical calculations related to magnetic phenomena in old accelerators and the Large Hadron Collider. They discussed how these calculations can be used in classrooms to spark students' curiosity, aid their understanding of physical concepts, and illustrate the connection between theoretical physics ("cold equations") and the dynamic world of scientific research.
 
 Furthering the discussion about contextualized education, Cech's article in Nature, titled "Education: Embed social awareness in science curricula," emphasizes the need for a more integrated approach to teaching socially responsible students science, technology, engineering, and mathematics (STEM) in general [@cech2014education]. The study conducted by Cech showed that engineering students often leave university less interested in public welfare than when they started, which is contrary to what should be happening. The article suggests that STEM education should incorporate social issues throughout its curricula, not just in separate ethics courses. This is based on the premise that STEM practitioners who understand the role of their profession in society are better equipped to solve real-world problems. The article concludes that addressing public-welfare concerns should be a fundamental part of STEM education, suggesting that even a small proportion of homework and exam questions focusing on the social implications of scientific work could help reverse the trend of disengagement from these crucial issues. This approach is vital for producing well-rounded professionals capable of addressing the complex challenges of our time. 
 Cech was not alone in this sentiment and the idea has been echoed in works such as "The people part of engineering: Engineering for, with, and as people" by Fila et al [@fila2014people]. 
-This was also seen in "History of Science in Physics Teaching Possibilities for Contextualized Teaching?" by Jardim et al which discusses the use of a historical approach in science education, particularly in physics, to provide a more contextualized understanding of the development of scientific knowledge [@jardim2021history]. The primary aim is to explore how lessons incorporating a Cultural History of Science approach can enable activities that encourage students to consider their socio-cultural context, with a specific reference to Brazilian scientific production. It also investigates how students can develop a deeper understanding of scientific practices through classroom discussions inspired by this approach, focusing on both historical contexts and students' own social environments. The approach allows students to recognize that science is developed by various social actors, in different settings beyond the laboratory, and involves diverse actions. The findings suggest that this method of teaching science is effective in historically contextualizing science development while also enabling students to reflect on scientific production within their social context.
-Furthermore this was discussed in the context of high school education in Upegui et al's , "Integration of the Topic of Social Justice into High School Biology Curricula" [@upegui2022integration]. That study found that this more contexualized approach not only enhances students' understanding of STEM concepts but also prepares them for comprehensive participation in society by making them aware of and sensitive to social inequities.
+This was also seen in "History of Science in Physics Teaching Possibilities for Contextualized Teaching?" by Jardim et al which discusses the use of a historical approach in science education, particularly in physics, to provide a more contextualized understanding of the development of scientific knowledge [@jardim2021history]. The primary aim is to explore how lessons incorporating a Cultural History of Science approach can enable activities that encourage students to consider their socio-cultural context, with a specific reference to Brazilian scientific production. It also investigates how students can develop a deeper understanding of scientific practices through classroom discussions inspired by this approach, focusing on both historical contexts and students' own social environments. The approach allows students to recognize that science is developed by various social actors, in different settings beyond the laboratory and involves diverse actions. The findings suggest that this method of teaching science is effective in historically contextualizing science development while also enabling students to reflect on scientific production within their social context.
+Furthermore, this was discussed in the context of high school education in Upegui et al's , "Integration of the Topic of Social Justice into High School Biology Curricula" [@upegui2022integration]. That study found that this more contexualized approach not only enhances students' understanding of STEM concepts but also prepares them for comprehensive participation in society by making them aware of and sensitive to social inequities.
 
 ## Examining our case study
 
@@ -95,10 +95,10 @@ Table: Summary of course material.
 
 
 ## Experience of Use
-TO BE ADDED AFTER TEACHING EXPERIENCE
+THERESA and BECCA WILL ADD AFTER TEACHING EXPERIENCE
 
 # Conclusion
-TO BE ADDED AFTER TEACHING EXPERIENCE
+BECCA WILL ADD AFTER TEACHING EXPERIENCE
 
 # Author's Contributions
 TN has been teaching high school physics at the Academy of Our Lady of Mercy Lauralton Hall since 1993. RN and TN created the physics materials. HR, MM, GQ, and DH provided social science context. DH provided context about rural Alaska.
