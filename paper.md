@@ -28,7 +28,7 @@ affiliations:
    index: 1
  - name: Academy of Our Lady of Mercy Lauralton Hall
    index: 2
- - name: University of Alaska Fairbanks
+ - name: Coastal Community Resilience Specialist for Alaska Sea Grant at the University of Alaska Fairbanks
    index: 3
  - name: Department of Agricultural Economics, Sociology, and Education, Population Research Institute, and Social Science Research Institute, Penn State University
    index: 4
