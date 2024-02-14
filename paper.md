@@ -1,5 +1,5 @@
 ---
-title: 'Course Materials for Static Equilibrium in Remote Alaska'
+title: 'Static Equilibrium in Remote Alaska'
 tags:
   - high school physics
   - equilibrium mechanics
