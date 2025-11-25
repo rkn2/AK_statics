@@ -453,6 +453,7 @@ We've standardized the presentation of all coding tasks with clear headers indic
 - ✅ Added "Exploration Tasks" section
 - ✅ Implemented "Coding Practice: Three Levels" (Worked Example, Fill in Blanks, Build from Scratch) across all notebooks.
 - ✅ Added "Exploration Tasks" to all notebooks to encourage inquiry-based learning.
+- ✅ Removed broken video link from Lesson 5 and updated text to focus on concepts.
 
 ---
 
