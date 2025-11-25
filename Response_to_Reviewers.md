@@ -448,6 +448,12 @@ Excellent idea! We've added interactive widgets using ipywidgets that allow stud
 **Our Response:**
 We've standardized the presentation of all coding tasks with clear headers indicating the type: "📘 Worked Example (Complete Code)", "✏️ Practice Task (Fill in the Blanks)", or "🎯 Challenge (Build from Scratch)". This makes it immediately clear what level of completion students should expect and what they need to do.
 
+### **Global Updates (All Lessons)**
+- ✅ Standardized coding task presentation with clear headers
+- ✅ Added "Exploration Tasks" section
+- ✅ Implemented "Coding Practice: Three Levels" (Worked Example, Fill in Blanks, Build from Scratch) across all notebooks.
+- ✅ Added "Exploration Tasks" to all notebooks to encourage inquiry-based learning.
+
 ---
 
 *Document prepared: November 24, 2025*
