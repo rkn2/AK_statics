@@ -455,6 +455,26 @@ We've standardized the presentation of all coding tasks with clear headers indic
 - ✅ Added "Exploration Tasks" to all notebooks to encourage inquiry-based learning.
 - ✅ Removed broken video link from Lesson 5 and updated text to focus on concepts.
 
+# JOSE Review Response (rkn2/AK_statics#2)
+
+We thank the reviewer for their constructive feedback. We have addressed all minor revisions as follows:
+
+### **Documentation & Licensing**
+- ✅ **License**: Updated `README.md` to explicitly state the dual licensing model: MIT for code and CC-BY 4.0 for educational content.
+- ✅ **Statement of Need**: Added a clear "Statement of Need" section to both `README.md` and `paper.md`, explicitly identifying the target audience and educational gap.
+- ✅ **Dependencies**: Added `requirements.txt` listing all necessary Python libraries (`numpy`, `matplotlib`, `ipywidgets`, `jupyter`).
+- ✅ **Community Guidelines**: Created `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` to guide future contributors.
+
+### **Paper Updates (paper.md)**
+- ✅ **Instructor Guidance**: Added a new section detailing prerequisites, workflow, and adaptability.
+- ✅ **DOIs**: Added Digital Object Identifiers (DOIs) to all applicable references in `paper.bib`.
+
+### **Pedagogy**
+- ✅ **Learning Objectives**: Verified that explicit learning objectives are present at the beginning of every lesson.
+- ✅ **Scaffolding**: Implemented "Three Levels" of coding practice (Worked Example, Fill in Blanks, Build from Scratch) across all lessons to improve scaffolding.
+
+---
+
 ---
 
 *Document prepared: November 24, 2025*

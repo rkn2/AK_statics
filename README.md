@@ -15,8 +15,36 @@
 | 4    | This lesson reinforces understanding of forces and equilibrium in physics and engineering, with a focus on practical problem-solving.| [![Unit_04](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rkn2/AK_statics/blob/main/Statics_Lesson4.ipynb) |
 | 5    | This lesson focuses on understanding conditions for static equilibrium in bridges, including balancing forces and torques. Students learn about internal forces like shear forces and moments that contribute to equilibrium. | [![Unit_05](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rkn2/AK_statics/blob/main/Statics_Lesson5.ipynb) |
 
-## Additional resources for teachers
-The document "Code_Outlines.ipynb" is a guide for teachers on translating physics problems into code outlines, aimed at high school students. It emphasizes the importance of creating "code outlines" or "code scaffolds" to guide students through computational problem-solving in physics. The document details the components of a code outline, including problem understanding, variable assignments, calculations, and print statements. It walks through examples like calculating the maximum height of a projectile and the horizontal range of a launched projectile, demonstrating how to define problems, set variables, outline calculations, and display results. This approach helps students organize their thoughts and understand the logic of programming in the context of physics.
+## Statement of Need
+Engineering statics is a foundational course for civil and mechanical engineering students, yet many struggle to connect abstract mathematical concepts with physical reality. Traditional teaching methods often rely on static diagrams and manual calculations, which can obscure the dynamic relationship between forces, geometry, and equilibrium.
+
+`AK_statics` addresses this gap by providing an interactive, computational approach to learning statics. By using Python and Jupyter Notebooks (via Google Colab), students can:
+- **Visualize** forces and moments in real-time.
+- **Experiment** with parameters (e.g., changing loads or geometry) to see immediate effects on stability.
+- **Connect** engineering principles to real-world contexts, specifically the unique challenges of infrastructure in Alaska.
+
+This module is designed for undergraduate engineering students, educators looking for open-source active learning resources, and self-learners interested in the intersection of physics and programming.
+
+## Installation and Dependencies
+The notebooks are designed to run in **Google Colab**, which requires no local installation. However, if you wish to run them locally, you will need Python 3.9+ and the following libraries:
+- `numpy`
+- `matplotlib`
+- `ipywidgets`
+- `jupyter`
+
+You can install these using the provided requirements file:
+```bash
+pip install -r requirements.txt
+```
+
+## Community Guidelines
+We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
+## License
+This project is dual-licensed:
+- **Code**: The software code is licensed under the [MIT License](LICENSE).
+- **Content**: The educational content (text, images, notebooks) is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
 
 The document "interacting_colab.ipynb" is a guide for teachers and students on how to interact with colab notebooks. This material was produced by Google and has been reproduced for simplicity. These resources were only curated and were not written by the authors of this work. 
 
