@@ -446,35 +446,63 @@ Excellent idea! We've added interactive widgets using ipywidgets that allow stud
 **Issue:** Make expectations clear: consistently present each coding task as (a) full worked example, (b) partial outline, or (c) blank scaffold.
 
 **Our Response:**
-We've standardized the presentation of all coding tasks with clear headers indicating the type: "📘 Worked Example (Complete Code)", "✏️ Practice Task (Fill in the Blanks)", or "🎯 Challenge (Build from Scratch)". This makes it immediately clear what level of completion students should expect and what they need to do.
+We've standardized the presentation of all coding tasks with clear headers indicating the type: " Worked Example (Complete Code)", " Practice Task (Fill in the Blanks)", or " Challenge (Build from Scratch)". This makes it immediately clear what level of completion students should expect and what they need to do.
 
 ### **Global Updates (All Lessons)**
-- ✅ Standardized coding task presentation with clear headers
-- ✅ Added "Exploration Tasks" section
-- ✅ Implemented "Coding Practice: Three Levels" (Worked Example, Fill in Blanks, Build from Scratch) across all notebooks.
-- ✅ Added "Exploration Tasks" to all notebooks to encourage inquiry-based learning.
-- ✅ Removed broken video link from Lesson 5 and updated text to focus on concepts.
+-  Standardized coding task presentation with clear headers
+-  Added "Exploration Tasks" section
+-  Implemented "Coding Practice: Three Levels" (Worked Example, Fill in Blanks, Build from Scratch) across all notebooks.
+-  Added "Exploration Tasks" to all notebooks to encourage inquiry-based learning.
+-  Removed broken video link from Lesson 5 and updated text to focus on concepts.
 
 # JOSE Review Response (rkn2/AK_statics#2)
 
 We thank the reviewer for their constructive feedback. We have addressed all minor revisions as follows:
 
-### **Documentation & Licensing**
-- ✅ **License**: Updated `README.md` to explicitly state the dual licensing model: MIT for code and CC-BY 4.0 for educational content.
-- ✅ **Statement of Need**: Added a clear "Statement of Need" section to both `README.md` and `paper.md`, explicitly identifying the target audience and educational gap.
-- ✅ **Dependencies**: Added `requirements.txt` listing all necessary Python libraries (`numpy`, `matplotlib`, `ipywidgets`, `jupyter`).
-- ✅ **Community Guidelines**: Created `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` to guide future contributors.
+### Reviewer Comment: License
+**Issue:** A CC-BY or similar license should be added and clarified in the repository.
 
-### **Paper Updates (paper.md)**
-- ✅ **Instructor Guidance**: Added a new section detailing prerequisites, workflow, and adaptability.
-- ✅ **DOIs**: Added Digital Object Identifiers (DOIs) to all applicable references in `paper.bib`.
+**Our Response:**
+We have updated the README.md to explicitly state the dual licensing model: MIT for code and CC-BY 4.0 for educational content.
 
-### **Pedagogy**
-- ✅ **Learning Objectives**: Verified that explicit learning objectives are present at the beginning of every lesson.
-- ✅ **Scaffolding**: Implemented "Three Levels" of coding practice (Worked Example, Fill in Blanks, Build from Scratch) across all lessons to improve scaffolding.
+### Reviewer Comment: Statement of Need
+**Issue:** The README and paper need a clearer statement of need.
 
----
+**Our Response:**
+We have added a clear "Statement of Need" section to both the README.md and paper.md, explicitly identifying the target audience and educational gap.
 
----
+### Reviewer Comment: Dependencies
+**Issue:** Dependencies are not clearly listed.
 
-*Document prepared: November 24, 2025*
+**Our Response:**
+We have added a requirements.txt file listing all necessary Python libraries (numpy, matplotlib, ipywidgets, jupyter).
+
+### Reviewer Comment: Community Guidelines
+**Issue:** More structured guidelines for contributing would be helpful.
+
+**Our Response:**
+We have created CONTRIBUTING.md and CODE_OF_CONDUCT.md to guide future contributors.
+
+### Reviewer Comment: Instructor Guidance
+**Issue:** The paper would benefit from clearer guidance for instructors.
+
+**Our Response:**
+We have added a new section to paper.md detailing prerequisites, workflow, and adaptability.
+
+### Reviewer Comment: References
+**Issue:** Add DOIs to all references where applicable.
+
+**Our Response:**
+We have added Digital Object Identifiers (DOIs) to all applicable references in paper.bib.
+
+### Reviewer Comment: Learning Objectives
+**Issue:** Explicit learning objectives should be included in the notebooks.
+
+**Our Response:**
+We have verified that explicit learning objectives are present at the beginning of every lesson.
+
+### Reviewer Comment: Scaffolding
+**Issue:** Some lessons could benefit from slightly more scaffolding.
+
+**Our Response:**
+We have implemented "Three Levels" of coding practice (Worked Example, Fill in Blanks, Build from Scratch) across all lessons to improve scaffolding.
