@@ -98,7 +98,8 @@ Table: Summary of course material.
 The high school physics teacher who implemented this curriculum expressed a positive and engaging experience with the course material. According to her comments, students were actively engaged as they worked through the background information on the challenges faced by Alaska's remote communities and followed along with the Python code. They particularly appreciated the practical application of the curriculum, where they explored how the thickness of ice impacts its load-bearing capacity. The students also weighed in on their experience with the curriculum. They found the walkthrough on writing and running the code to be very detailed, however they believed the information could be condensed for members with some prior background in Python. In conversations with the high school teacher, it was discussed to leave the curriculum in its current form but to encourage those who might use it to critically evaluate the level of coding experience in their students and potentially provide two versions, one with all the python explanation and one without for those who already have a coding background. Overall the students were enthusiastic about the curriculum's ability to bridge the gap between coding skills and real-life applications; the high school teacher found that this curriculum successfully fostered a meaningful connection between programming, physics, and real-world challenges.
 
 ## Instructor Guidance
-This module is designed to be flexible for various teaching environments. 
+This module is designed to be flexible for various teaching environments.
+
 - **Prerequisites**: Students should have a basic understanding of algebra and trigonometry. No prior programming experience is required, as the module introduces Python concepts from scratch.
 - **Workflow**: 
     1. **In-Class**: Instructors can lead the "Background Information" and "Think Before You Calculate" sections to spark discussion.
